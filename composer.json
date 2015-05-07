@@ -1,5 +1,5 @@
 {
-    "name": "xrowgmbh/common",
+    "name": "xrow/common",
     "type": "library",
     "description": "Common library for the PhpForce Salesforce libraries",
     "keywords": [  "salesforce", "crm", "soap", "force.com", "web services" ],
